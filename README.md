@@ -3,7 +3,7 @@
 I am a Computer Engineering student and an android developer.
 I'm passionate about programming. I am interested in learning app development 💖 to grow my knowledge of these Technologies.
 
-Skills: C / Java / Html / CSS / JavaScript / Bootstrap / jQuery / Database / SQL / Firebase
+Skills: C / Java / Database / SQL / Firebase
 
 - 🔭 I’m currently working on Android Development. 
 - 🌱 I’m currently learning Backend Development 
